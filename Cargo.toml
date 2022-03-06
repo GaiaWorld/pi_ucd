@@ -2,3 +2,8 @@
 name = "pi_ucd"
 version = "0.1.0"
 authors = ["zmythleo <zmythleo@gmail.com>"]
+edition = "2021"
+description = "unicode字符函数，获得字符的语言区间段；及根据文字排版的需要，判断字符是否为单字字符或字母字符"
+repository = "https://github.com/GaiaWorld/pi_补充补充补充"
+license = "MIT OR Apache-2.0"
+keywords = ["pi",  "unicode"]
