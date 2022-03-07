@@ -4,6 +4,6 @@ version = "0.1.0"
 authors = ["zmythleo <zmythleo@gmail.com>"]
 edition = "2021"
 description = "Unicode character function to obtain the language interval of characters; And judge whether the characters are single character or alphabetic characters according to the needs of text typesetting"
-repository = "https://github.com/GaiaWorld/pi_ucd"
+repository = "https://github.com/GaiaWorld/pi_ucd.git"
 license = "MIT OR Apache-2.0"
 keywords = ["pi",  "unicode"]
